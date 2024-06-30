@@ -2,7 +2,7 @@ package TiposVariaveis;
 
 public class TiposVariaveis {
     public static void main(String[] args){
-        byte idade = 132;
+        byte idade = 13;
         short ano = 2024;
         int cep = 50620585;
         long cpf = 7189283463L;
